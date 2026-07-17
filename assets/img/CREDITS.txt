@@ -1,0 +1,18 @@
+Photo credits — Christ For All Nation Worship Centre website
+(Pexels licence requires no attribution; kept here for our own records.)
+
+hero.jpg        — Pexels, photographer "Oladipupo Ajisegiri" (photo id 6490578).
+                  Replaced 2026-07-17: the original v1 hero photo (Pexels search result
+                  for an "african worship" query) turned out to be an Islamic outdoor
+                  congregational prayer scene, not Christian worship — wrong-faith image,
+                  swapped out during the Phase-2 refine.
+welcome.jpg      — Pexels, photographer "Michael Ninson" / Zeal Creatives.
+moment-1.jpg     — Pexels, photographer credited "MEGA" in file metadata.
+moment-2.jpg     — Pexels (photographer not recorded in file metadata).
+moment-3.jpg     — Pexels (photographer not recorded in file metadata).
+visit.jpg        — Pexels (photographer not recorded in file metadata).
+leadership.jpg   — Not Pexels. Cropped from the church's own real leadership photo,
+                  sourced from a screenshot of their previous Lovable site
+                  (christforallnations.lovable.app).
+logo.png         — Not Pexels. Cropped from the church's own real crest, sourced from a
+                  screenshot of their previous Lovable site.

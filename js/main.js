@@ -1,5 +1,5 @@
-/* Revival Fire Ministry — motion & the living ember field.
-   Signature element: canvas embers rising through the Kalahari night,
+/* Christ For All Nation Worship Centre — motion & the living ember field.
+   Signature element: canvas embers rising through the night,
    with a GSAP-orchestrated hero and scroll-triggered reveals. */
 
 (() => {
@@ -38,7 +38,7 @@
       this.embers = Array.from({ length: this.count }, () => this.spawn(true));
     }
     spawn(initial = false) {
-      const palette = ['#3B6EF5', '#F5C542', '#1E3A8F', '#9DC0FF'];
+      const palette = ['#3B6EF5', '#D2536A', '#1B3A78', '#9DC0FF'];
       return {
         x: Math.random() * this.w,
         y: initial ? Math.random() * this.h : this.h + 10,
